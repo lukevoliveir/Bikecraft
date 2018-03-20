@@ -1,1 +1,0 @@
-[2018-02-22 10:02:17] layer "- 12 98240-9114 - contato@bikcraft.com - São José dos Campos": Expected end of input but "-" found.
