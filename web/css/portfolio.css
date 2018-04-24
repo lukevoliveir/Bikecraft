@@ -1,4 +1,4 @@
-.interna_portifolio {
+.interna_portfolio {
     background: url("../img/bg-portifolio.jpg") no-repeat center;
     background-size: cover;
 }
@@ -11,19 +11,16 @@
 
 .quote_clientes p {
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-style: italic;
+    font-family: Georgia, "Times New Roman", serif;
     font-size: 18px;
     line-height: 25px;
+    font-style: italic;
     margin-bottom: 20px;
 }
 
 .quote_clientes cite {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-style: italic;
-    font-weight: bold;
-    text-transform: uppercase;
     font-size: 18px;
-    line-height: 25px;
+    font-weight: bold;
     float: right;
+    font-style: normal;
 }
